@@ -3,6 +3,7 @@
 	$user = "preethi345";
 	$pass = "Padmaja@0987";
 	$db = "attendancemsystem";
+
 	
 	$conn = new mysqli($host, $user, $pass, $db);
 	if($conn->connect_error){
