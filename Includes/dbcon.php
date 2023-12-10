@@ -1,7 +1,7 @@
 <?php
-	$host = "localhost";
-	$user = "root";
-	$pass = "";
+	$host = "preethi123.mysql.database.azure.com";
+	$user = "preethi345";
+	$pass = "Padmaja@0987";
 	$db = "attendancemsystem";
 	
 	$conn = new mysqli($host, $user, $pass, $db);
